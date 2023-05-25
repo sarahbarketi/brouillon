@@ -1,7 +1,7 @@
 
 /*Colors and fonts */
 body {
-	background-color: #E5D4ED;
+	background-color: #C9E3CC;
 	color: rgb(50,50,50);
 	font-family: 'Josefin Sans', sans-serif;
 	font-size: 17px;
@@ -12,29 +12,29 @@ h1, h2, h3 {
 }
 
 h1 {
-	color: #A167A5;
+	color: #39A87B;
     font-size: 32px;
     font-weight: 700;
 }
 
 h2 {
-	color: rgb(100,100,100);
+	color: #39A87B;
     font-size: 24px;
     font-weight: lighter;
-    font-weight: 100;
+    font-weight: 200;
 }
 
 a {
 	font-family: 'Gloock', serif;
 	text-decoration: none;
-	color : #18206F;
+	color : #39A87B;
 	font-weight: 600;
 	font-size: 16px;
 
 }
 
 a:hover {
-	color: black;
+	color: #C9E3CC;
 }
 
 
@@ -62,26 +62,26 @@ a:hover {
 	background-color: white;
 	padding: 40px;
 	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
-	border-radius: 4px;
+	border-radius: 10px;
 	margin: 20px 0px;
 	text-align: center;
 }
 
 
 .img-circle {
-	border-radius: 50%;
+	border-radius: 70%;
 }
 
-.btn-purple {
-	background-color: purple;
+.btn-green {
+	background-color: #008755;
 	color: white;
 	padding: 15px 20px;
-	border-radius: 4px;
+	border-radius: 10px;
 }
 
 .btn-blue:hover {
 	background-color: black;
-	color: white;
+	color: #008755;
 }
 
 
